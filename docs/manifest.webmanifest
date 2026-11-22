@@ -1,0 +1,18 @@
+{
+  "name": "The Study Room — Medina Arabic & Mālikī Fiqh",
+  "short_name": "Study Room",
+  "description": "Arabic vocabulary and Mālikī fiqh in one app",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f2e9",
+  "theme_color": "#113f35",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
